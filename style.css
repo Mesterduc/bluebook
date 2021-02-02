@@ -1,6 +1,9 @@
 #bluebook{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .bluebook__text{
     margin-left: 10px;
+
 }
