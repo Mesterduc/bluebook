@@ -1,0 +1,6 @@
+#bluebook{
+    display: flex;
+}
+.bluebook__text{
+    margin-left: 10px;
+}
